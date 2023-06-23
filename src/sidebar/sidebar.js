@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./sidebar.scss";
+import "./sidebar.css";
 export default function Sidebar(props) {
   const [open, setOpen] = useState(false);
 

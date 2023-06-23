@@ -7,7 +7,7 @@ import Excalidraw, {
 import InitialData from "./initialData";
 import Sidebar from "./sidebar/sidebar";
 
-import "./styles.scss";
+import "./styles.css";
 import initialData from "./initialData";
 
 const renderTopRightUI = () => {

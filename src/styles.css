@@ -21,7 +21,7 @@
 }
 
 :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {
-  transform: none
+  transform: none;
 }
 
 .excalidraw .panelColumn {
